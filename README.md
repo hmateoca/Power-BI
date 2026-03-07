@@ -1,5 +1,3 @@
 # Power-BI
 Dashboards de acceso público con fines profesionales realizados a partir de repositorios de datos públicos.
-
-
-https://app.powerbi.com/groups/me/reports/f6a44c83-3115-47cd-a342-3b86deb05f65/7840ec3481fbf3bc6767?experience=power-bi 
+https://app.powerbi.com/links/Iqf_6dZ6Ce?ctid=9c6cb0e9-1c0e-4137-ac54-6ba138984ef2&pbi_source=linkShare 
